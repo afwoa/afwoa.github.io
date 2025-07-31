@@ -1,3 +1,7 @@
 baseURL = 'https://afwoa.com/'
 languageCode = 'en-us'
 title = 'Air Force Warrant Officer Association'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
