@@ -1,0 +1,12 @@
+**/public/
+public.zip
+**/resources/_gen/
+.hugo_build.lock
+.DS_Store
+.cache/
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+

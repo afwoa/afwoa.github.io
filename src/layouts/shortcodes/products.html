@@ -1,0 +1,9 @@
+{{- $cols := .Get "cols" | default 3 -}}
+{{- $section := .Get "section" | default "Products" -}}
+
+{{- partial "shortcodes/products" (dict
+    "cols"      $cols
+    "section"   $section
+    "content"   .Inner
+  )
+-}}

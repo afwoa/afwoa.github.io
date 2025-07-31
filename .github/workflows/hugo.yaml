@@ -1,0 +1,47 @@
+name: Deploy Hugo site to Pages
+
+on:
+  push:
+    branches:
+      - main
+      - wip-initial
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --gc
+        working-directory: ./src
+
+      - name: Deploy GitHub Pages
+        if: github.ref == 'ref/heads/main'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./src/public
+          cname: afwoa.com
+
+      - name: Deploy Cloudflare Pages
+        if: github.ref != 'ref/heads/main'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ./src/public --project-name=afwoa-beta --branch main

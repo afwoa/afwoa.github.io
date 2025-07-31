@@ -1,0 +1,12 @@
+{{ $js := resources.Get "js/countdown.js" | minify }}
+<div class="container">
+   <meta name="countdown-complete" content={{ .Get 1 }}></meta>
+   <script src="{{ $js.RelPermalink }}"></script>
+   <h3 id="headline">{{ .Get 0 }}</h3>
+   <div class="countdown">
+      <div><span id="countdown-days"></span><br/>Days</div>
+      <div><span id="countdown-hours"></span><br/>Hours</div>
+      <div><span id="countdown-minutes"></span><br/>Minutes</div>
+      <div><span id="countdown-seconds"></span><br/>Seconds</div>
+   </div>
+  </div>
