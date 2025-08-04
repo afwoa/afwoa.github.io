@@ -6,7 +6,7 @@ layout: wide
 
 {{< cards >}}
   {{< card
-        link="https://myfss.us.af.mil/USAFCommunity/s/knowledge-detail?pod=kA0Rw0000000A0zKAE"
+        link="https://myfss.us.af.mil/USAFCommunity/s/knowledge-detail?pid=kA0Rw0000000A0zKAE"
         title="All 2025 Personnel Services Deliver Memorandums (PSDMs)"
         image="/images/resources-myfss.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
