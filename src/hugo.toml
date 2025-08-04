@@ -1,8 +1,0 @@
-baseURL = 'https://afwoa.com/'
-languageCode = 'en-us'
-title = 'Air Force Warrant Officer Association'
-theme = 'ananke'
-
-[caches]
-[caches.images]
-dir = ':cacheDir/images'

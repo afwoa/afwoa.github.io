@@ -1,8 +1,6 @@
-+++
-title = 'Packing for WOTS'
-layout = 'page'
-draft = false
-+++
+---
+title: Packing
+---
 
 ## Packing for Warrant Officer Training School (WOTS) 
 
@@ -11,3 +9,5 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
 ![](/images/wots-packing-service-uniform.png)
 ![](/images/wots-packing-utility-uniform.png)
 ![](/images/wots-packing-ptg.png)
+![](/images/wots-packing-hygiene.png)
+![](/images/wots-packing-additional.png)
