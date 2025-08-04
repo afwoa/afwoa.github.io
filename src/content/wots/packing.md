@@ -1,8 +1,8 @@
----
++++
 title = 'Packing for WOTS'
 layout = 'page'
 draft = false
----
++++
 
 ## Packing for Warrant Officer Training School (WOTS) 
 
