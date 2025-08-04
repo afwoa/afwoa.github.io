@@ -17,7 +17,7 @@
         shellHook = ''
           ${pkgs.coreutils-full}/bin/echo "Hugo: $(hugo version)"
           ${pkgs.coreutils-full}/bin/echo "Go: $(go version)"
-          #${pkgs.hugo}/bin/hugo server --disableFastRender --noHTTPCache --gc --buildDrafts --source ./src
+          ${pkgs.hugo}/bin/hugo server --disableFastRender --noHTTPCache --gc --buildDrafts --source ./src
         '';
       };
     });

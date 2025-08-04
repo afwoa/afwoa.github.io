@@ -6,6 +6,12 @@ layout: wide
 
 {{< cards >}}
   {{< card
+        link="https://myfss.us.af.mil/USAFCommunity/s/knowledge-detail?pod=kA0Rw0000000A0zKAE"
+        title="All 2025 Personnel Services Deliver Memorandums (PSDMs)"
+        image="/images/resources-myfss.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+  {{< card
         link="https://www.afaccessionscenter.af.mil/Holm-Center/Warrant-Officer-Program/"
         title="Air Force Accessions Center: Warrant Officer Program"
         image="https://media.defense.gov/2025/Mar/12/2003665896/2000/2000/0/241206-F-SZ562-1242.JPG"
