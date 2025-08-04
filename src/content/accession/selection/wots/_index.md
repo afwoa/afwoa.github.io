@@ -1,5 +1,5 @@
 ---
-title: WOTS
+title: 1. WOTS
 ---
 
-WOTS Index
+Warrant Officer Training School notes
