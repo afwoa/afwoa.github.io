@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Accession
 cacade:
   type: docs
 ---

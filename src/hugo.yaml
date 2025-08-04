@@ -32,8 +32,8 @@ module:
 
 menu:
   main:
-    - name: Guide
-      pageRef: /guide
+    - name: Accession
+      pageRef: /accession
       weight: 1
     - name: Resources
       pageRef: /resources
