@@ -1,0 +1,46 @@
+{{- $context := . -}}
+{{- $image := .image | default "/images/money-fire.png" -}}
+{{- $linkAmazon := .linkAmazon -}}
+{{- $linkAafes := .linkAafes -}}
+{{- $note := .note -}}
+{{- $title := .title -}}
+{{- $quantityMinimum := .quantityMinimum -}}
+{{- $quantityRecommended := .quantityRecommended -}}
+
+<div class="product">
+    <div class="product-image">
+        <img src="{{ $image }}"/>
+    </div>
+    <div class="product-details">
+        <div class="product-title"><p>{{ $title }}</p></div>
+        {{- with $note -}}
+        <div class="product-note"><p>{{ $note }}</p></div>
+        {{- end -}}
+        <div class="product-quantities">
+            <span>Minimum: {{ $quantityMinimum }}</span>
+            <span>Recommended: {{ $quantityRecommended }}</span>
+        </div>
+        <div class="product-links">
+            {{- with $linkAmazon -}}
+            <a href="{{ $linkAmazon }}" target="_blank">
+                <img
+                    alt="{{ $title }}"
+                    src="/images/logo-amazon-dark.svg"
+                    width="20px"
+                    height="20px"
+                    />
+            </a>
+            {{- end -}}
+            {{- with $linkAafes -}}
+            <a href="{{ $linkAafes }}" target="_blank">
+                <img
+                    alt="{{ $title }}"
+                    src="/images/logo-aafes.png"
+                    width="20px"
+                    height="20px"
+                    />
+            </a>
+            {{- end -}}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+{{- $context := . -}}
+{{- $image := .Get "image" -}}
+{{- $linkAmazon := .Get "link-amazon" -}}
+{{- $linkAafes := .Get "link-aafes" -}}
+{{- $note := .Get "note" -}}
+{{- $title := .Get "title" -}}
+{{- $quantityMinimum := .Get "quantity-minimum" | default 0 -}}
+{{- $quantityRecommended := .Get "quantity-recommended" | default 1 -}}
+
+{{- partial "shortcodes/product" (dict
+    "image"                 $image
+    "linkAmazon"            $linkAmazon
+    "linkAafes"             $linkAafes
+    "note"                  $note
+    "title"                 $title
+    "quantityMinimum"       $quantityMinimum
+    "quantityRecommended"   $quantityRecommended
+  )
+-}}

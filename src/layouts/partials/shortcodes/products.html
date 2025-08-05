@@ -1,0 +1,8 @@
+{{- $cols := .cols | default 3 -}}
+{{- $content := .content -}}
+{{- $title := .title | default "Products" -}}
+
+<div class="products">
+    {{- ($title | add "## ") | markdownify -}}
+    {{- $content -}}
+</div>
