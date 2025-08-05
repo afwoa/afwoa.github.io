@@ -4,7 +4,7 @@
 &lt;a href="#af-form-422" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The AF Form 422 is used to provide a snapshot of your current medical status. This document can take anywhere from a few days to a few weeks to obtain, and acts as a blocker to other processes, so it is imperative that you get this done as soon as possible.&lt;/p>
 &lt;p>The AF422 is valid for 1 year (??) and must have a very specific statement as determined by the board. As of the FY26 board, the statement was as follows. Please ensure it has not changed for the current board.&lt;/p>
 &lt;div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
-&lt;div>&lt;pre>&lt;code>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
+&lt;div>&lt;pre>&lt;code>Based on full record review, the member is medically qualified for continued enlistment, commissioning, cleared for worldwide duty, and does not have an ALC or in the process of a medical evaluation board (MEB). Also, member doe not have an AF Form 460. Duty Limiting Condition Report, describing duty limitation or exemption from any component for Fitness Testing. Mamber has/has not has PRK or Lasik surgery. Surgery date was: MM/DD/YYYY.&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
 &lt;button
 class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
 title="Copy code"
@@ -16,10 +16,16 @@ title="Copy code"
 &lt;/div>
 &lt;p>To request an AF Form 422, do the following:&lt;/p>
 &lt;ol>
-&lt;li>Go to myIMR&lt;/li>
-&lt;li>Go to the Medical Clearance tab and click Start New Medical Clearance Request&lt;/li>
-&lt;li>More steps coming soon&amp;hellip;&lt;/li>
+&lt;li>Go to &lt;a href="https://asimsimr.health.mil/imr/myIMR.aspx" target="_blank" rel="noopener">myIMR&lt;/a>.&lt;/li>
+&lt;li>Go to the Medical Clearance tab and click &lt;code>Start New Medical Clearance Request&lt;/code>&lt;/li>
+&lt;li>Select &lt;code>Retraining/Reclass/Commissioning/IFC/Special Duty/DSD&lt;/code>&lt;/li>
+&lt;li>What type of Retraining/Reclass do you need?: Commission&lt;/li>
+&lt;li>What is the application deadline?&lt;/li>
+&lt;li>List all AFSC&amp;rsquo;s/SDI/Positions you are applying for: 17?X?&lt;/li>
+&lt;li>Answer the other questions&lt;/li>
 &lt;/ol>
+&lt;p>Please send your CC/FM approval letter, AFPC email, and AMS listing; any verbiage required on the AF Form 422, plus any other required document to:&amp;hellip;..&lt;/p>
+&lt;p>Check the &lt;code>IMR&lt;/code> tab for an &lt;code>AF422&lt;/code> link daily. This is where your AF422 will be found and you may not recieve any notification that it is ready for download.&lt;/p>
 &lt;h2>AFCEP Request&lt;span class="hx-absolute -hx-mt-20" id="afcep-request">&lt;/span>
 &lt;a href="#afcep-request" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Once you have all documents completed, you will upload them via a website called AFCEP. It can be a bit of a time consuming hassle to get access to AFCEP, so it is highly recommended that you begin the process of requesting an account as early as possible.&lt;/p>
 &lt;p>More information coming soon&amp;hellip;&lt;/p></description></item><item><title>1. Documents</title><link>https://afwoa.com/accession/application/docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afwoa.com/accession/application/docs/</guid><description>
