@@ -2,7 +2,7 @@
 {{- $content := .content -}}
 {{- $title := .title | default "Products" -}}
 
+{{- ($title | add "## ") | markdownify -}}
 <div class="products">
-    {{- ($title | add "## ") | markdownify -}}
     {{- $content -}}
 </div>
