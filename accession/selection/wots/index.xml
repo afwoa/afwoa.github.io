@@ -86,7 +86,27 @@ height="20px"
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="product-links">&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
+&lt;p class="product-links-type">♂&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%257D#">
+&lt;img
+alt="Blues Pants"
+src="https://afwoa.com/images/logo-aafes.png"
+width="20px"
+height="20px"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;div class="product-links-category">
+&lt;p class="product-links-type">♀&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%257D#">
+&lt;img
+alt="Blues Pants"
+src="https://afwoa.com/images/logo-aafes.png"
+width="20px"
+height="20px"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="product">
