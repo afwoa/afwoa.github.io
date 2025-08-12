@@ -46,11 +46,14 @@
 }
 
 .product-links-group {
-    display: flex;
-    justify-content: space-evenly;
     align-items: center;
     width: 100%;
 }
+
+.product-links-group a img {
+    max-width: 140px;
+    max-height: 55px;
+};
 
 .product-quantity {
     display: flex;
