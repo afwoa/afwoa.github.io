@@ -9,3 +9,32 @@ Service Uniform:
   Officer Service Coat:
     Generic:
       - "https://www.shopmyexchange.com/air-force-officer-service-dress-coat/0571415"
+  Blues Pants:
+    Male:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%257D#" 
+    Female:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%257D#" 
+    Blues Shirt (Long Sleeve):
+      Male:
+        - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%257D#"
+      Female:
+        - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%257D#"
+    Blues Shirt (Long Sleeve):
+      Male:
+        - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%257D#"
+      Female:
+        - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%257D#" 
+    Necktie/tab:
+      Male:
+        - "https://www.shopmyexchange.com/dlats-neck-tie/1881150"
+      Female:
+        - "https://www.shopmyexchange.com/dlats-wrap-around-inverted-v-neck-tab/6303622"
+    Shirt Garters:
+      Generic:
+        - "https://www.shopmyexchange.com/army-air-force-shirt-garter-black-4-pc-/2906331"
+    Blues Name Tag:
+      Generic:
+        - "https://www.shopmyexchange.com/air-force-blue-plastic-engraved-nametag/6771340"
+    Service Dress Name Tag:
+      Generic:
+        - "https://www.shopmyexchange.com/air-force-silver-metal-engraved-nametag/2272207"

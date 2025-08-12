@@ -1,14 +1,14 @@
 {{- $context := . -}}
-{{- $image := .Get "image" -}}
 {{- $note := .Get "note" -}}
 {{- $title := .Get "title" -}}
+{{- $section := .Get "section" -}}
 {{- $quantityMinimum := .Get "quantity-minimum" | default 0 -}}
 {{- $quantityRecommended := .Get "quantity-recommended" | default 1 -}}
 
 {{- partial "shortcodes/product" (dict
-    "image"                 $image
     "note"                  $note
     "title"                 $title
+    "section"               $section
     "quantityMinimum"       $quantityMinimum
     "quantityRecommended"   $quantityRecommended
   )

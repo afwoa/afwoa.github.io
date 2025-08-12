@@ -1,9 +1,22 @@
 {{- $context := . -}}
-{{- $image := .image | default "/images/money-fire.png" -}}
 {{- $note := .note | default "<br/>" -}}
 {{- $title := .title -}}
+{{- $section := .section -}}
 {{- $quantityMinimum := .quantityMinimum -}}
 {{- $quantityRecommended := .quantityRecommended -}}
+
+{{- $slug := print "products-" $section "-" $title | urlize -}}
+
+{{ $directory := "static/images/" }}
+{{ $filename := print $slug ".png" }}
+
+{{ $image := "" }}  <!-- Declare $image in the outer scope -->
+
+{{ if (where (readDir $directory) "Name" $filename) }}
+  {{ $image = print "/images/" $slug ".png" }}
+{{ else }}
+  {{ $image = "/images/money-fire.png" }}
+{{ end }}
 
 {{ $categoryItems := index site.Data.links.products "Service Uniform" }}
 {{ $subcategoryItems := index $categoryItems $title }}
