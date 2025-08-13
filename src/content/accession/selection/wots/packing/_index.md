@@ -44,7 +44,12 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
       quantity-minimum=1
   >}}
   {{< product
-      title="Necktie/tab"
+      title="Neck Tie"
+      section="Service Uniform"
+      quantity-minimum=1
+  >}}
+  {{< product
+      title="Neck Tab"
       section="Service Uniform"
       quantity-minimum=1
   >}}
@@ -72,7 +77,7 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
       quantity-minimum=1
   >}}
   {{< product
-      title="Light-weight Jacket"
+      title="Lightweight Jacket"
       section="Service Uniform"
       note="May be embroidered"
       quantity-minimum=1
@@ -88,7 +93,8 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
       quantity-minimum=1
   >}}
   {{< product
-      title="US Officer Lapel Pins (Set of 2)"
+      title="US Officer Lapel Pins"
+      note="Set of 2"
       section="Service Uniform"
       quantity-minimum=1
   >}}

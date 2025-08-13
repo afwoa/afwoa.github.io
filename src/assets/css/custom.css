@@ -42,8 +42,7 @@
     border: 2px solid #AAAAAA;
     border-radius: 25px;
     margin: 10px;
-    min-width: 150px;
-    max-width: 350px;
+    width: 300px;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
@@ -98,7 +97,8 @@
 .product-links-category p {
     align-content: center;
     border-right: 1px solid;
-    width: 30px;
+    width: 40px;
+    text-align: left;
 }
 
 .product-links-group {
