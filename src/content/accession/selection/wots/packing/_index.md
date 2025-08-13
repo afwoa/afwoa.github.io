@@ -2,7 +2,13 @@
 title: Packing
 ---
 
-The official packing list can be found in the [WOTS Reporting Guide](https://www.afaccessionscenter.af.mil/Portals/78/WOTS/Documents/WOTS%20Reporting%20Guide.pdf).
+This page will help you keep track of items that you still need to obtain. This should be a fairly comprehensive list, but if you find anything to be missing, please reach out. The official packing list can be found in the [WOTS Reporting Guide](https://www.afaccessionscenter.af.mil/Portals/78/WOTS/Documents/WOTS%20Reporting%20Guide.pdf).
+
+
+### Filters
+{{< productsjs >}}
+
+## Service Uniform
 
 {{< products
     section="Service Uniform"
@@ -117,6 +123,8 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
   >}}
 {{< /products >}}
 
+## Utility Uniform
+
 {{< products section="Utility Uniform" >}}
   {{< product
     title="Boots"
@@ -223,6 +231,8 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
   >}}
 {{< /products >}}
 
+## Physical Training Gear
+
 {{< products section="Physical Training Gear" >}}
   {{< product
     title="Athletic Shoes"
@@ -262,6 +272,8 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
   >}}
 {{< /products >}}
 
+## Hygiene
+
 {{< products section="Hygiene" >}}
   {{< product
     title="Standard Hygiene Items"
@@ -291,7 +303,7 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
     quantity-recommended=9
   >}}
   {{< product
-    title="Bra Underwire"
+    title="Underwire Bra"
     note="Female Only"
     section="Hygiene"
     quantity-minimum=0
@@ -376,6 +388,8 @@ The official packing list can be found in the [WOTS Reporting Guide](https://www
     quantity-recommended=2
   >}}
 {{< /products >}}
+
+## Additional
 
 {{< products section="Additional" >}}
   {{< product

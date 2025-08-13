@@ -1,0 +1,4 @@
+{{ $js := resources.Get "js/product-shoppinglist.js" | minify }}
+<script src="{{ $js.RelPermalink }}"></script>
+
+<button class="product-hidden-toggle-btn">Show Owned Items</button>

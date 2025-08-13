@@ -70,6 +70,7 @@
     flex-wrap: wrap;
     flex-grow: 1;
     width: -moz-available;
+    width: -webkit-fill-available;
     align-content: flex-start;
     align-items: flex-start;
     justify-content: flex-start;
@@ -155,4 +156,56 @@
     height: 150px;
     width: 100%;
 }
+
+.product-btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    width: 100%;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+}
+
+.product-btn:hover {
+    background-color: #45a049; /* Darker green */
+    transform: translateY(-2px);
+}
+
+.product-btn:active {
+    background-color: #3e8e41;
+    transform: translateY(0);
+}
+
+.product-hidden-toggle-btn {
+  background-color: #f0f0f0;
+  color: #333;
+  border: 2px solid #4CAF50; /* Green border */
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.product-hidden-toggle-btn:hover {
+  background-color: #e8f5e9; /* light green hover */
+}
+
+.product-hidden-toggle-btn.active {
+  background-color: #4CAF50; /* Green background when ON */
+  color: white;
+}
+
+.product-hidden-toggle-btn.active:hover {
+  background-color: #43A047; /* darker green on hover */
+}
+
 

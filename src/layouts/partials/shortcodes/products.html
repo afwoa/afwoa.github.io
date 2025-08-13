@@ -2,7 +2,6 @@
 {{- $content := .content -}}
 {{- $section := .section | default "Products" -}}
 
-{{- ($section | add "## ") | markdownify -}}
 <div class="products">
     {{- $content -}}
 </div>
