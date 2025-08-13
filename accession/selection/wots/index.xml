@@ -139,7 +139,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-shirt-long-sleeve">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-long-sleeve.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Shirt (Long Sleeve)&lt;/p>&lt;/div>
@@ -182,7 +182,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-shirt-short-sleeve">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-short-sleeve.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Shirt (Short Sleeve)&lt;/p>&lt;/div>
@@ -225,7 +225,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-flight-cap">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-flight-cap.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Flight Cap&lt;/p>&lt;/div>
@@ -237,12 +237,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links">&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;div class="product" id="products-service-uniform-necktie/tab">
+&lt;div class="product" id="products-service-uniform-neck-tie">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tie.png"/>
 &lt;/div>
 &lt;div class="product-details">
-&lt;div class="product-title">&lt;p>Necktie/tab&lt;/p>&lt;/div>
+&lt;div class="product-title">&lt;p>Neck Tie&lt;/p>&lt;/div>
 &lt;div class="product-note">&lt;p>&lt;!-- raw HTML omitted -->
 &lt;/p>&lt;/div>
 &lt;div class="product-quantities">
@@ -253,26 +253,41 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;p class="product-links-type">♂&lt;/p>
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/dlats-neck-tie/1881150">
 &lt;img
-alt="Necktie/tab"
+alt="Neck Tie"
 class="visible-when-dark"
 src="https://afwoa.com/images/logo-aafes-dark.png"
 />
 &lt;img
-alt="Necktie/tab"
+alt="Neck Tie"
 class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
-&lt;/div>&lt;div class="product-links-category">
+&lt;/div>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="product" id="products-service-uniform-neck-tab">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tab.png"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>Neck Tab&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>&lt;!-- raw HTML omitted -->
+&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
 &lt;p class="product-links-type">♀&lt;/p>
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/dlats-wrap-around-inverted-v-neck-tab/6303622">
 &lt;img
-alt="Necktie/tab"
+alt="Neck Tab"
 class="visible-when-dark"
 src="https://afwoa.com/images/logo-aafes-dark.png"
 />
 &lt;img
-alt="Necktie/tab"
+alt="Neck Tab"
 class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
@@ -282,7 +297,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-belt">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-belt.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Belt&lt;/p>&lt;/div>
@@ -291,12 +306,26 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="product-links">&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
+&lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/air-force-blue-elastic-belt/9958067">
+&lt;img
+alt="Belt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Belt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-undershirts">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-undershirts.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Undershirts&lt;/p>&lt;/div>
@@ -306,12 +335,37 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>2&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>3&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="product-links">&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
+&lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://www.amazon.com/dp/B06XWLG7SC">
+&lt;img
+alt="Undershirts"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/>
+&lt;img
+alt="Undershirts"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/>
+&lt;/a>&lt;a href="https://www.shopmyexchange.com/men-s-4-pack-underwear-v-neck-shirt-in-white/DSCO1224287610">
+&lt;img
+alt="Undershirts"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Undershirts"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-black-dress-socks">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-black-dress-socks.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Black Dress Socks&lt;/p>&lt;/div>
@@ -321,12 +375,26 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>2&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>4&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="product-links">&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
+&lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/hanes-crew-socks-black-6-pk-/2719012">
+&lt;img
+alt="Black Dress Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Black Dress Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-shirt-garters">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-shirt-garters.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Shirt Garters&lt;/p>&lt;/div>
@@ -353,23 +421,37 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;div class="product" id="products-service-uniform-light-weight-jacket">
+&lt;div class="product" id="products-service-uniform-lightweight-jacket">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-lightweight-jacket.png"/>
 &lt;/div>
 &lt;div class="product-details">
-&lt;div class="product-title">&lt;p>Light-weight Jacket&lt;/p>&lt;/div>
+&lt;div class="product-title">&lt;p>Lightweight Jacket&lt;/p>&lt;/div>
 &lt;div class="product-note">&lt;p>May be embroidered&lt;/p>&lt;/div>
 &lt;div class="product-quantities">
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="product-links">&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
+&lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/dlats-lightweight-jacket-with-liner/0039511">
+&lt;img
+alt="Lightweight Jacket"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Lightweight Jacket"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-name-tag">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-name-tag.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Name Tag&lt;/p>&lt;/div>
@@ -398,7 +480,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-service-dress-name-tag">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-service-dress-name-tag.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Service Dress Name Tag&lt;/p>&lt;/div>
@@ -425,14 +507,13 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;div class="product" id="products-service-uniform-us-officer-lapel-pins-set-of-2">
+&lt;div class="product" id="products-service-uniform-us-officer-lapel-pins">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-us-officer-lapel-pins.png"/>
 &lt;/div>
 &lt;div class="product-details">
-&lt;div class="product-title">&lt;p>US Officer Lapel Pins (Set of 2)&lt;/p>&lt;/div>
-&lt;div class="product-note">&lt;p>&lt;!-- raw HTML omitted -->
-&lt;/p>&lt;/div>
+&lt;div class="product-title">&lt;p>US Officer Lapel Pins&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>Set of 2&lt;/p>&lt;/div>
 &lt;div class="product-quantities">
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
@@ -442,7 +523,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-metal-rank">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-metal-rank.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Metal Rank&lt;/p>&lt;/div>
@@ -456,7 +537,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-full-ribbon-rack">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-full-ribbon-rack.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Full Ribbon Rack&lt;/p>&lt;/div>
@@ -471,7 +552,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-required-duty-badges">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-required-duty-badges.png"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Required Duty Badges&lt;/p>&lt;/div>
