@@ -19,12 +19,24 @@
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/bootmakers-men-s-stay-shine-oxford-shoes/3467509">
 &lt;img
 alt="Dress Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Dress Shoes"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;a href="https://www.amazon.com/dp/B06XC8ZR39">
 &lt;img
 alt="Dress Shoes"
+class="visible-when-dark"
 src="https://afwoa.com/images/logo-amazon-dark.png"
+/>
+&lt;img
+alt="Dress Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
 />
 &lt;/a>&lt;/div>
 &lt;/div>&lt;div class="product-links-category">
@@ -32,12 +44,24 @@ src="https://afwoa.com/images/logo-amazon-dark.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/bootmakers-women-s-stay-shine-oxford-shoes/3467351">
 &lt;img
 alt="Dress Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Dress Shoes"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;a href="https://www.amazon.com/dp/B0DJNDBFL1">
 &lt;img
 alt="Dress Shoes"
+class="visible-when-dark"
 src="https://afwoa.com/images/logo-amazon-dark.png"
+/>
+&lt;img
+alt="Dress Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
 />
 &lt;/a>&lt;/div>
 &lt;/div>&lt;/div>
@@ -59,6 +83,12 @@ src="https://afwoa.com/images/logo-amazon-dark.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/air-force-officer-service-dress-coat/0571415">
 &lt;img
 alt="Officer Service Coat"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Officer Service Coat"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -81,6 +111,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%257D#">
 &lt;img
 alt="Blues Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Pants"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -89,6 +125,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%257D#">
 &lt;img
 alt="Blues Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Pants"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -112,6 +154,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%257D#">
 &lt;img
 alt="Blues Shirt (Long Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Shirt (Long Sleeve)"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -120,6 +168,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%257D#">
 &lt;img
 alt="Blues Shirt (Long Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Shirt (Long Sleeve)"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -143,6 +197,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%257D#">
 &lt;img
 alt="Blues Shirt (Short Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Shirt (Short Sleeve)"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -151,6 +211,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%257D#">
 &lt;img
 alt="Blues Shirt (Short Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Shirt (Short Sleeve)"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -188,6 +254,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/dlats-neck-tie/1881150">
 &lt;img
 alt="Necktie/tab"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Necktie/tab"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -196,6 +268,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/dlats-wrap-around-inverted-v-neck-tab/6303622">
 &lt;img
 alt="Necktie/tab"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Necktie/tab"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -263,6 +341,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/army-air-force-shirt-garter-black-4-pc-/2906331">
 &lt;img
 alt="Shirt Garters"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Shirt Garters"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -300,6 +384,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/air-force-blue-plastic-engraved-nametag/6771340">
 &lt;img
 alt="Blues Name Tag"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Blues Name Tag"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
@@ -323,6 +413,12 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;div class="product-links-group">&lt;a href="https://www.shopmyexchange.com/air-force-silver-metal-engraved-nametag/2272207">
 &lt;img
 alt="Service Dress Name Tag"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/>
+&lt;img
+alt="Service Dress Name Tag"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
 />
 &lt;/a>&lt;/div>
