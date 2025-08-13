@@ -10,8 +10,7 @@
 {{ $directory := "static/images/" }}
 {{ $filename := print $slug ".png" }}
 
-{{ $image := "" }}  <!-- Declare $image in the outer scope -->
-
+{{ $image := "" }}
 {{ if (where (readDir $directory) "Name" $filename) }}
   {{ $image = print "/images/" $slug ".png" }}
 {{ else }}
@@ -42,10 +41,16 @@
                 <div class="product-links-group">
                   {{- range $genericLinks -}}
                     <a href="{{ . }}">
-                      <img
-                        alt="{{ $title }}"
-                        src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
-                      />
+                        <img
+                          alt="{{ $title }}"
+                          class="visible-when-dark"
+                          src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
+                        />
+                        <img
+                          alt="{{ $title }}"
+                          class="visible-when-light"
+                          src="/images/{{ if in . "amazon.com" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
+                        />
                     </a>
                   {{- end -}}
                 </div>
@@ -59,7 +64,13 @@
                     <a href="{{ . }}">
                         <img
                           alt="{{ $title }}"
-                          src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
+                          class="visible-when-dark"
+                          src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
+                        />
+                        <img
+                          alt="{{ $title }}"
+                          class="visible-when-light"
+                          src="/images/{{ if in . "amazon.com" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
                         />
                     </a>
                   {{- end -}}
@@ -74,7 +85,13 @@
                   <a href="{{ . }}">
                       <img
                         alt="{{ $title }}"
-                        src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
+                        class="visible-when-dark"
+                        src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
+                      />
+                      <img
+                        alt="{{ $title }}"
+                        class="visible-when-light"
+                        src="/images/{{ if in . "amazon.com" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
                       />
                   </a>
                 {{- end -}}
