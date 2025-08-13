@@ -4,8 +4,11 @@ title: Packing
 
 This page will help you keep track of items that you still need to obtain. This should be a fairly comprehensive list, but if you find anything to be missing, please reach out. The official packing list can be found in the [WOTS Reporting Guide](https://www.afaccessionscenter.af.mil/Portals/78/WOTS/Documents/WOTS%20Reporting%20Guide.pdf).
 
+Note that Amazon links are affiliate links to cover the costs of this website and other AFWOA services. Additionally, images used not necessarily the same as the linked products and are provided for easy reference.
+
 
 ### Filters
+
 {{< productsjs >}}
 
 ## Service Uniform
@@ -22,13 +25,13 @@ This page will help you keep track of items that you still need to obtain. This 
   {{< product
       title="Officer Service Coat"
       section="Service Uniform"
-      note="Must have [dark braid](http://www.uniforms-4u.com/p-us-air-force-half-inch-blue-officer-braids-6418.aspx) and epaulets attached. Maxwell Alterations has 5 weeks turn around"
+      note="Ensure same fabric composition as Blues Pants. Must have [dark braid](http://www.uniforms-4u.com/p-us-air-force-half-inch-blue-officer-braids-6418.aspx) and epaulets attached. Maxwell Alterations has 5 weeks turn around"
       quantity-minimum=1
   >}}
   {{< product
       title="Blues Pants"
+      note="Ensure same fabric composition as Service Coat. Wool or polyester w/ a minimum of 1 wool"
       section="Service Uniform"
-      note="Wool or polyester w/ a minimum of 1 wool"
       quantity-minimum=1
   >}}
   {{< product
@@ -433,6 +436,7 @@ This page will help you keep track of items that you still need to obtain. This 
   >}}
   {{< product
     title="Combination Lock"
+    note="Quick access neccessary; Consider one with pin instead of spin; Biometics also popular"
     section="Additional"
     quantity-minimum=1
     quantity-recommended=1

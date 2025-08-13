@@ -17,11 +17,11 @@
   {{ $image = "/images/money-fire.jpg" }}
 {{ end }}
 
-{{ $categoryItems := index site.Data.links.products $section }}
+{{ $categoryItems    := index site.Data.links.products $section }}
 {{ $subcategoryItems := index $categoryItems $title }}
-{{ $genericLinks := index $subcategoryItems "Generic" }}
-{{ $maleLinks := index $subcategoryItems "Male" }}
-{{ $femaleLinks := index $subcategoryItems "Female" }}
+{{ $genericLinks     := sort (default (slice) (index $subcategoryItems "Generic")) }}
+{{ $maleLinks        := sort (default (slice) (index $subcategoryItems "Male")) }}
+{{ $femaleLinks      := sort (default (slice) (index $subcategoryItems "Female")) }}
 
 <div class="product" id="{{ $slug }}">
     <div class="product-image">
@@ -45,12 +45,12 @@
                         <img
                           alt="{{ $title }}"
                           class="visible-when-dark"
-                          src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
+                          src="/images/{{ if in . "amzn.to" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
                         />
                         <img
                           alt="{{ $title }}"
                           class="visible-when-light"
-                          src="/images/{{ if in . "amazon.com" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
+                          src="/images/{{ if in . "amzn.to" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
                         />
                     </a>
                   {{- end -}}
@@ -66,12 +66,12 @@
                         <img
                           alt="{{ $title }}"
                           class="visible-when-dark"
-                          src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
+                          src="/images/{{ if in . "amzn.to" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
                         />
                         <img
                           alt="{{ $title }}"
                           class="visible-when-light"
-                          src="/images/{{ if in . "amazon.com" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
+                          src="/images/{{ if in . "amzn.to" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
                         />
                     </a>
                   {{- end -}}
@@ -87,12 +87,12 @@
                       <img
                         alt="{{ $title }}"
                         class="visible-when-dark"
-                        src="/images/{{ if in . "amazon.com" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
+                        src="/images/{{ if in . "amzn.to" }}logo-amazon-dark.png{{ else if in . "shopmyexchange" }}logo-aafes-dark.png{{ end }}"
                       />
                       <img
                         alt="{{ $title }}"
                         class="visible-when-light"
-                        src="/images/{{ if in . "amazon.com" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
+                        src="/images/{{ if in . "amzn.to" }}logo-amazon.png{{ else if in . "shopmyexchange" }}logo-aafes.png{{ end }}"
                       />
                   </a>
                 {{- end -}}
