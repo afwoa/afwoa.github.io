@@ -5,7 +5,7 @@
 &lt;a href="#service-uniform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="products">
 &lt;div class="product" id="products-service-uniform-dress-shoes">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-dress-shoes.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-dress-shoes.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Dress Shoes&lt;/p>&lt;/div>
@@ -69,7 +69,7 @@ src="https://afwoa.com/images/logo-amazon.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-officer-service-coat">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-officer-service-coat.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-officer-service-coat.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Officer Service Coat&lt;/p>&lt;/div>
@@ -97,7 +97,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-pants">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-blues-pants.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-pants.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Pants&lt;/p>&lt;/div>
@@ -139,7 +139,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-shirt-long-sleeve">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-long-sleeve.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-long-sleeve.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Shirt (Long Sleeve)&lt;/p>&lt;/div>
@@ -182,7 +182,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-shirt-short-sleeve">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-short-sleeve.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-short-sleeve.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Shirt (Short Sleeve)&lt;/p>&lt;/div>
@@ -225,7 +225,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-flight-cap">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-flight-cap.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-flight-cap.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Flight Cap&lt;/p>&lt;/div>
@@ -239,7 +239,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-neck-tie">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tie.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tie.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Neck Tie&lt;/p>&lt;/div>
@@ -268,7 +268,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-neck-tab">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tab.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tab.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Neck Tab&lt;/p>&lt;/div>
@@ -297,7 +297,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-belt">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-belt.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-belt.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Belt&lt;/p>&lt;/div>
@@ -325,7 +325,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-undershirts">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-undershirts.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-undershirts.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Undershirts&lt;/p>&lt;/div>
@@ -365,7 +365,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-black-dress-socks">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-black-dress-socks.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-black-dress-socks.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Black Dress Socks&lt;/p>&lt;/div>
@@ -394,7 +394,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-shirt-garters">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-shirt-garters.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-shirt-garters.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Shirt Garters&lt;/p>&lt;/div>
@@ -423,7 +423,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-lightweight-jacket">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-lightweight-jacket.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-lightweight-jacket.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Lightweight Jacket&lt;/p>&lt;/div>
@@ -451,7 +451,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-blues-name-tag">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-blues-name-tag.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-name-tag.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blues Name Tag&lt;/p>&lt;/div>
@@ -480,7 +480,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-service-dress-name-tag">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-service-dress-name-tag.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-service-dress-name-tag.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Service Dress Name Tag&lt;/p>&lt;/div>
@@ -509,7 +509,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-us-officer-lapel-pins">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-us-officer-lapel-pins.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-us-officer-lapel-pins.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>US Officer Lapel Pins&lt;/p>&lt;/div>
@@ -523,7 +523,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-metal-rank">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-metal-rank.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-metal-rank.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Metal Rank&lt;/p>&lt;/div>
@@ -537,7 +537,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-full-ribbon-rack">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-full-ribbon-rack.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-full-ribbon-rack.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Full Ribbon Rack&lt;/p>&lt;/div>
@@ -552,7 +552,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-service-uniform-required-duty-badges">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-service-uniform-required-duty-badges.png"/>
+&lt;img src="https://afwoa.com/images/products-service-uniform-required-duty-badges.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Required Duty Badges&lt;/p>&lt;/div>
@@ -570,7 +570,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;a href="#utility-uniform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="products">
 &lt;div class="product" id="products-utility-uniform-boots">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-boots.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-boots.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Boots&lt;/p>&lt;/div>
@@ -598,7 +598,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-ocp-pants">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-pants.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-pants.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>OCP Pants&lt;/p>&lt;/div>
@@ -627,7 +627,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-ocp-blouse">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-blouse.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-blouse.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>OCP Blouse&lt;/p>&lt;/div>
@@ -655,7 +655,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-ocp-cap">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-cap.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-cap.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>OCP Cap&lt;/p>&lt;/div>
@@ -683,7 +683,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-belt">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-belt.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-belt.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Belt&lt;/p>&lt;/div>
@@ -711,7 +711,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-blousing-straps">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-blousing-straps.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-blousing-straps.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Blousing Straps&lt;/p>&lt;/div>
@@ -726,7 +726,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-t-shirt">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-t-shirt.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-t-shirt.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>T-Shirt&lt;/p>&lt;/div>
@@ -754,7 +754,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-ocp-fleece">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-fleece.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-fleece.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>OCP Fleece&lt;/p>&lt;/div>
@@ -782,7 +782,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-ecwcs">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>ECWCS&lt;/p>&lt;/div>
@@ -796,7 +796,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-watch-cap">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-watch-cap.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-watch-cap.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Watch Cap&lt;/p>&lt;/div>
@@ -824,7 +824,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-ocp-socks">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-socks.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-socks.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>OCP Socks&lt;/p>&lt;/div>
@@ -852,7 +852,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-gloves">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-gloves.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-gloves.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Gloves&lt;/p>&lt;/div>
@@ -880,7 +880,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-name-tapes">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-name-tapes.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-name-tapes.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Name Tapes&lt;/p>&lt;/div>
@@ -908,7 +908,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-usaf-tapes">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-usaf-tapes.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-usaf-tapes.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>USAF Tapes&lt;/p>&lt;/div>
@@ -936,7 +936,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-utility-uniform-us-flag-patch">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-utility-uniform-us-flag-patch.png"/>
+&lt;img src="https://afwoa.com/images/products-utility-uniform-us-flag-patch.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>US Flag Patch&lt;/p>&lt;/div>
@@ -953,7 +953,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;a href="#physical-training-gear" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="products">
 &lt;div class="product" id="products-physical-training-gear-athletic-shoes">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-physical-training-gear-athletic-shoes.png"/>
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-athletic-shoes.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Athletic Shoes&lt;/p>&lt;/div>
@@ -982,7 +982,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-physical-training-gear-usaf-ptg-shorts">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-shorts.png"/>
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-shorts.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>USAF PTG Shorts&lt;/p>&lt;/div>
@@ -1025,7 +1025,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-physical-training-gear-usaf-ptg-shirt">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-shirt.png"/>
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-shirt.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>USAF PTG Shirt&lt;/p>&lt;/div>
@@ -1068,7 +1068,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-physical-training-gear-usaf-ptg-running-pants">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-running-pants.png"/>
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-running-pants.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>USAF PTG Running Pants&lt;/p>&lt;/div>
@@ -1111,7 +1111,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-physical-training-gear-usaf-ptg-jacket">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-jacket.png"/>
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-jacket.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>USAF PTG Jacket&lt;/p>&lt;/div>
@@ -1154,7 +1154,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-physical-training-gear-running-socks">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-physical-training-gear-running-socks.png"/>
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-running-socks.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Running Socks&lt;/p>&lt;/div>
@@ -1186,7 +1186,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;a href="#hygiene" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="products">
 &lt;div class="product" id="products-hygiene-standard-hygiene-items">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-standard-hygiene-items.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-standard-hygiene-items.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Standard Hygiene Items&lt;/p>&lt;/div>
@@ -1200,7 +1200,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-underwear">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-underwear.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-underwear.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Underwear&lt;/p>&lt;/div>
@@ -1228,7 +1228,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-thermal-underwear">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-thermal-underwear.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-thermal-underwear.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Thermal Underwear&lt;/p>&lt;/div>
@@ -1257,7 +1257,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-sports-bra">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-sports-bra.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-sports-bra.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Sports Bra&lt;/p>&lt;/div>
@@ -1285,7 +1285,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-bra-underwire">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/money-fire.png"/>
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Bra Underwire&lt;/p>&lt;/div>
@@ -1299,7 +1299,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-spandex-tights">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-spandex-tights.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-spandex-tights.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Spandex Tights&lt;/p>&lt;/div>
@@ -1313,7 +1313,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-hairbrush">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-hairbrush.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-hairbrush.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Hairbrush&lt;/p>&lt;/div>
@@ -1328,7 +1328,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-hairbands-and-bobby-pins">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-hairbands-and-bobby-pins.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-hairbands-and-bobby-pins.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Hairbands and Bobby Pins&lt;/p>&lt;/div>
@@ -1342,7 +1342,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-wristwatch">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-wristwatch.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-wristwatch.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Wristwatch&lt;/p>&lt;/div>
@@ -1356,7 +1356,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-eyeglasses">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-eyeglasses.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-eyeglasses.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Eyeglasses&lt;/p>&lt;/div>
@@ -1370,7 +1370,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-eyeglass-strap">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-eyeglass-strap.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-eyeglass-strap.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Eyeglass Strap&lt;/p>&lt;/div>
@@ -1384,7 +1384,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-washcloth">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-washcloth.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-washcloth.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Washcloth&lt;/p>&lt;/div>
@@ -1399,7 +1399,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-shower-shoes">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-shower-shoes.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-shower-shoes.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Shower Shoes&lt;/p>&lt;/div>
@@ -1414,7 +1414,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-towel">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-towel.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-towel.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Towel&lt;/p>&lt;/div>
@@ -1428,7 +1428,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-mesh-laundry-bags">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-mesh-laundry-bags.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-mesh-laundry-bags.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Mesh Laundry Bags&lt;/p>&lt;/div>
@@ -1443,7 +1443,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-laundry-detergent">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-laundry-detergent.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-laundry-detergent.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Laundry Detergent&lt;/p>&lt;/div>
@@ -1458,7 +1458,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-hygiene-dryer-sheets">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-hygiene-dryer-sheets.png"/>
+&lt;img src="https://afwoa.com/images/products-hygiene-dryer-sheets.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Dryer Sheets&lt;/p>&lt;/div>
@@ -1476,7 +1476,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;a href="#additional" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="products">
 &lt;div class="product" id="products-additional-cash">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-cash.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-cash.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Cash&lt;/p>&lt;/div>
@@ -1490,7 +1490,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-additional-laptop">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-laptop.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-laptop.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Laptop&lt;/p>&lt;/div>
@@ -1504,7 +1504,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-additional-ballpoint-pens">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-ballpoint-pens.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-ballpoint-pens.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Ballpoint Pens&lt;/p>&lt;/div>
@@ -1518,7 +1518,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-additional-notepaper">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-notepaper.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-notepaper.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Notepaper&lt;/p>&lt;/div>
@@ -1533,7 +1533,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-additional-pocket-notebook">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-pocket-notebook.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-pocket-notebook.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Pocket Notebook&lt;/p>&lt;/div>
@@ -1548,7 +1548,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-additional-toiletry-bag">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-toiletry-bag.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-toiletry-bag.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Toiletry Bag&lt;/p>&lt;/div>
@@ -1563,7 +1563,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product" id="products-additional-combination-lock">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-combination-lock.png"/>
+&lt;img src="https://afwoa.com/images/products-additional-combination-lock.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Combination Lock&lt;/p>&lt;/div>
