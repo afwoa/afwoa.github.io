@@ -52,3 +52,88 @@ Service Uniform:
   Service Dress Name Tag:
     Generic:
       - "https://www.shopmyexchange.com/air-force-silver-metal-engraved-nametag/2272207"
+
+Utility Uniform:
+  Boots:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Military%2520Approved%2520Footwear%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Boots%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Brown%2522%255D%257D"
+  OCP Pants:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522OCP%2522%255D%257D"
+  OCP Blouse:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522OCP%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Coats%2522%255D%257D"
+  OCP Cap:
+    Generic:
+      - "https://www.shopmyexchange.com/dlats-army-patrol-cap-ocp-/7261923"
+  Belt:
+    Generic:
+      - "https://www.shopmyexchange.com/dlats-army-rigger-belt-ocp-/7247229"
+  T-Shirt:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522OCP%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522T-Shirts%2522%255D%257D"
+  OCP Fleece:
+    Generic:
+      - "https://www.shopmyexchange.com/army-cold-weather-fleece-jacket/7924071"
+  Watch Cap:
+    Generic:
+      - "https://www.shopmyexchange.com/army-black-micro-fleece-cap-apfu-/6945715"
+  OCP Socks:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Socks%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Brown%2522%252C%2522Green%2522%255D%257D"
+  Gloves:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Gloves%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Black%2522%252C%2522Brown%2522%255D%257D"
+  Name Tapes:
+    Generic:
+      - "https://www.shopmyexchange.com/air-force-embroidered-nametape-hook-loop-standard-5-in-ocp-/1201066"
+  USAF Tapes:
+    Generic:
+      - "https://www.shopmyexchange.com/air-force-embroidered-branch-tape-hook-loop-ocp-/1206816"
+  US Flag Tapes:
+    Generic:
+      - "https://www.shopmyexchange.com/air-force-reverse-american-flag-patch-with-hook-loop-back-ocp-/1473539"
+
+Physical Training Gear:
+  Athletic Shoes:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Sneakers%2522%255D%252C%2522attributes.categoriesL1%2522%253A%255B%2522Shoes%2522%255D%257D"
+  USAF PTG Shorts:
+    Male:
+      - "https://www.shopmyexchange.com/dlats-air-force-male-ap-shorts/3894910"
+    Female:
+      - "https://www.shopmyexchange.com/dlats-air-force-female-pt-running-shorts/3891884"
+  USAF PTG Shirt:
+    Male:
+      - "https://www.shopmyexchange.com/dlats-air-force-male-pt-shirt/3891290"
+    Female:
+      - "https://www.shopmyexchange.com/dlats-air-force-female-pt-shirt/3890596"
+  USAF PTG Running Pants:
+    Male:
+      - "https://www.shopmyexchange.com/dlats-air-force-male-pt-pants/3901509"
+    Female:
+      - "https://www.shopmyexchange.com/dlats-air-force-female-pt-pants/3901537"
+  USAF PTG Jacket:
+    Male:
+      - "https://www.shopmyexchange.com/dlats-air-force-male-pt-pants/3901509"
+    Female:
+      - "https://www.shopmyexchange.com/dlats-air-force-female-pt-pants/3901537"
+  USAF PTG Jacket:
+    Male:
+      - "https://www.shopmyexchange.com/dlats-air-force-male-pt-jacket/3898261"
+    Female:
+      - "https://www.shopmyexchange.com/dlats-air-force-female-pt-jacket/3898291"
+  Running Socks:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Clothing%2520%2526%2520Accessories%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Socks%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Ankle%2522%252C%2522Athletic%2522%252C%2522Athletic%2520Socks%2522%255D%257D"
+
+Hygiene:
+  Underwear:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Underwear%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Black%2522%252C%2522White%2522%255D%252C%2522attributes.categoriesL1%2522%253A%255B%2522Clothing%2520%2526%2520Accessories%2522%255D%257D"
+  Thermal Underwear:
+    Generic:
+      - "https://www.shopmyexchange.com/browse?query=thermal+underwear&facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Underwear%2522%255D%252C%2522attributes.categoriesL1%2522%253A%255B%2522Clothing%2520%2526%2520Accessories%2522%255D%257D"
+  Sports Bra:
+    Female:
+      - "https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Sports%2520Bras%2522%255D%257D"

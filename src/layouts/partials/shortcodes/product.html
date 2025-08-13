@@ -17,7 +17,7 @@
   {{ $image = "/images/money-fire.png" }}
 {{ end }}
 
-{{ $categoryItems := index site.Data.links.products "Service Uniform" }}
+{{ $categoryItems := index site.Data.links.products $section }}
 {{ $subcategoryItems := index $categoryItems $title }}
 {{ $genericLinks := index $subcategoryItems "Generic" }}
 {{ $maleLinks := index $subcategoryItems "Male" }}
