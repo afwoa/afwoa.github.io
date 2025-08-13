@@ -32,7 +32,7 @@ layout: wide
   {{< card
         link="https://www.afaccessionscenter.af.mil/Portals/78/WOTS/Documents/WOTS%20Reporting%20Guide%2012%20June.pdf"
         title="WOTS Reporting Guide"
-        image="/images/resources-wots-reporting-guide.png"
+        image="/images/resources-wots-reporting-guide.jpg"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 {{< /cards >}}

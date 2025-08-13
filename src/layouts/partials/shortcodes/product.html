@@ -8,13 +8,13 @@
 {{- $slug := print "products-" $section "-" $title | urlize -}}
 
 {{ $directory := "static/images/" }}
-{{ $filename := print $slug ".png" }}
+{{ $filename := print $slug ".jpg" }}
 
 {{ $image := "" }}
 {{ if (where (readDir $directory) "Name" $filename) }}
-  {{ $image = print "/images/" $slug ".png" }}
+  {{ $image = print "/images/" $slug ".jpg" }}
 {{ else }}
-  {{ $image = "/images/money-fire.png" }}
+  {{ $image = "/images/money-fire.jpg" }}
 {{ end }}
 
 {{ $categoryItems := index site.Data.links.products $section }}
