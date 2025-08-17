@@ -1392,8 +1392,7 @@ src="https://afwoa.com/images/logo-aafes.png"
 &lt;/div>
 &lt;div class="product-details">
 &lt;div class="product-title">&lt;p>Thermal Underwear&lt;/p>&lt;/div>
-&lt;div class="product-note">&lt;p>&lt;!-- raw HTML omitted -->
-&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>Required October - March&lt;/p>&lt;/div>
 &lt;div class="product-quantities">
 &lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>5&lt;/span>&lt;/p>
@@ -1825,6 +1824,35 @@ src="https://afwoa.com/images/logo-amazon.png"
 &lt;/div>
 &lt;h2>Additional&lt;span class="hx-absolute -hx-mt-20" id="additional">&lt;/span>
 &lt;a href="#additional" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="products">
+&lt;div class="product" id="products-additional-ballpoint-pens">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/products-additional-ballpoint-pens.jpg"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>Ballpoint Pens&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>Blue or Black&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>2&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>5&lt;/span>&lt;/p>
+&lt;button class="product-btn">I have this&lt;/button>
+&lt;/div>
+&lt;div class="product-links">&lt;div class="product-links-category">
+&lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
+&lt;div class="product-links-group">&lt;a href="https://amzn.to/45sKFi9">
+&lt;img
+alt="Ballpoint Pens"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/>
+&lt;img
+alt="Ballpoint Pens"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/>
+&lt;/a>&lt;/div>
+&lt;/div>&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;div class="product" id="products-additional-cash">
 &lt;div class="product-image">
 &lt;img src="https://afwoa.com/images/products-additional-cash.jpg"/>
@@ -1869,33 +1897,19 @@ src="https://afwoa.com/images/logo-amazon.png"
 &lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;div class="product" id="products-additional-ballpoint-pens">
+&lt;div class="product" id="products-additional-lock">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-ballpoint-pens.jpg"/>
+&lt;img src="https://afwoa.com/images/products-additional-lock.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
-&lt;div class="product-title">&lt;p>Ballpoint Pens&lt;/p>&lt;/div>
-&lt;div class="product-note">&lt;p>Blue or Black&lt;/p>&lt;/div>
+&lt;div class="product-title">&lt;p>Lock&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>Quick access neccessary; Consider one with biometics or a pin instead of spin&lt;/p>&lt;/div>
 &lt;div class="product-quantities">
-&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>2&lt;/p>
-&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>5&lt;/span>&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
 &lt;button class="product-btn">I have this&lt;/button>
 &lt;/div>
-&lt;div class="product-links">&lt;div class="product-links-category">
-&lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
-&lt;div class="product-links-group">&lt;a href="https://amzn.to/45sKFi9">
-&lt;img
-alt="Ballpoint Pens"
-class="visible-when-dark"
-src="https://afwoa.com/images/logo-amazon-dark.png"
-/>
-&lt;img
-alt="Ballpoint Pens"
-class="visible-when-light"
-src="https://afwoa.com/images/logo-amazon.png"
-/>
-&lt;/a>&lt;/div>
-&lt;/div>&lt;/div>
+&lt;div class="product-links">&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="product" id="products-additional-notepaper">
@@ -1988,33 +2002,113 @@ src="https://afwoa.com/images/logo-amazon.png"
 &lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;div class="product" id="products-additional-combination-lock">
+&lt;/div>
+&lt;h2>Extras&lt;span class="hx-absolute -hx-mt-20" id="extras">&lt;/span>
+&lt;a href="#extras" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This section contains items which are recommended by prior WOTS Candidates rather than specifically in the WOTS Reporting Guide.&lt;/p>
+&lt;div class="products">
+&lt;div class="product" id="products-extras-blanket">
 &lt;div class="product-image">
-&lt;img src="https://afwoa.com/images/products-additional-combination-lock.jpg"/>
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
 &lt;/div>
 &lt;div class="product-details">
-&lt;div class="product-title">&lt;p>Combination Lock&lt;/p>&lt;/div>
-&lt;div class="product-note">&lt;p>Quick access neccessary; Consider one with pin instead of spin; Biometics also popular&lt;/p>&lt;/div>
+&lt;div class="product-title">&lt;p>Blanket&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>You get a blanket, but it isn&amp;rsquo;t great.&lt;/p>&lt;/div>
 &lt;div class="product-quantities">
-&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>1&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
 &lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
 &lt;button class="product-btn">I have this&lt;/button>
 &lt;/div>
 &lt;div class="product-links">&lt;div class="product-links-category">
 &lt;p class="product-links-type">&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88">&lt;title>hyperlink&lt;/title>&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/>&lt;/svg>&lt;/p>
-&lt;div class="product-links-group">&lt;a href="https://amzn.to/4mfaGZB">
+&lt;div class="product-links-group">&lt;a href="https://amzn.to/4lu1teE">
 &lt;img
-alt="Combination Lock"
+alt="Blanket"
 class="visible-when-dark"
 src="https://afwoa.com/images/logo-amazon-dark.png"
 />
 &lt;img
-alt="Combination Lock"
+alt="Blanket"
 class="visible-when-light"
 src="https://afwoa.com/images/logo-amazon.png"
 />
 &lt;/a>&lt;/div>
 &lt;/div>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="product" id="products-extras-cpap-machine">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>CPAP Machine&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>If you need it, bring it. &amp;lsquo;Yes, we do in fact want you to continue freaking breathing!&amp;rsquo;&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
+&lt;button class="product-btn">I have this&lt;/button>
+&lt;/div>
+&lt;div class="product-links">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="product" id="products--fan">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>Fan&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>&lt;!-- raw HTML omitted -->
+&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
+&lt;button class="product-btn">I have this&lt;/button>
+&lt;/div>
+&lt;div class="product-links">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="product" id="products--massage-equipment">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>Massage Equipment&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>Massage gun/etc for general muscle (foot/shoulder/knee) soreness&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
+&lt;button class="product-btn">I have this&lt;/button>
+&lt;/div>
+&lt;div class="product-links">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="product" id="products-extras-pillow">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>Pillow&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>You get a pillow, but it isn&amp;rsquo;t great.&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
+&lt;button class="product-btn">I have this&lt;/button>
+&lt;/div>
+&lt;div class="product-links">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="product" id="products--sweat-rag">
+&lt;div class="product-image">
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/>
+&lt;/div>
+&lt;div class="product-details">
+&lt;div class="product-title">&lt;p>Sweat Rag&lt;/p>&lt;/div>
+&lt;div class="product-note">&lt;p>There will be &lt;del>blood&lt;/del> sweat.&lt;/p>&lt;/div>
+&lt;div class="product-quantities">
+&lt;p class="product-quantity">&lt;strong>Minimum: &lt;/strong>&lt;span>0&lt;/p>
+&lt;p class="product-quantity">&lt;strong>Recommended: &lt;/strong>&lt;span>1&lt;/span>&lt;/p>
+&lt;button class="product-btn">I have this&lt;/button>
+&lt;/div>
+&lt;div class="product-links">&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
