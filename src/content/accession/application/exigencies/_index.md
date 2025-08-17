@@ -32,3 +32,9 @@ Check the `IMR` tab for an `AF422` link daily. This is where your AF422 will be 
 Once you have all documents completed, you will upload them via a website called AFCEP. It can be a bit of a time consuming hassle to get access to AFCEP, so it is highly recommended that you begin the process of requesting an account as early as possible.
 
 More information coming soon... 
+
+## Training Record
+
+Please know and ensure your training records are up to date in the various systems of record. Don't meet the requirements, fail to have it reflected properly, and get passed over because of that.
+
+In addition to workrole certifications, ensure that Talent Marketplace has an up to date list of all training, certifications, etc.

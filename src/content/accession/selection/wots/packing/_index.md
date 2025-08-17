@@ -294,6 +294,7 @@ Note that Amazon links are affiliate links to cover the costs of this website an
   >}}
   {{< product
     title="Thermal Underwear"
+    note="Required October - March"
     section="Hygiene"
     quantity-minimum=0
     quantity-recommended=5
@@ -396,6 +397,13 @@ Note that Amazon links are affiliate links to cover the costs of this website an
 
 {{< products section="Additional" >}}
   {{< product
+    title="Ballpoint Pens"
+    note="Blue or Black"
+    section="Additional"
+    quantity-minimum=2
+    quantity-recommended=5
+  >}}
+  {{< product
     title="Cash"
     note="Approx $75"
     section="Additional"
@@ -410,11 +418,11 @@ Note that Amazon links are affiliate links to cover the costs of this website an
     quantity-recommended=1
   >}}
   {{< product
-    title="Ballpoint Pens"
-    note="Blue or Black"
+    title="Lock"
+    note="Quick access neccessary; Consider one with biometics or a pin instead of spin"
     section="Additional"
-    quantity-minimum=2
-    quantity-recommended=5
+    quantity-minimum=1
+    quantity-recommended=1
   >}}
   {{< product
     title="Notepaper"
@@ -434,11 +442,52 @@ Note that Amazon links are affiliate links to cover the costs of this website an
     quantity-minimum=1
     quantity-recommended=1
   >}}
+{{< /products >}}
+
+## Extras
+
+This section contains items which are recommended by prior WOTS Candidates rather than specifically in the WOTS Reporting Guide.
+
+{{< products section="Extras" >}}
   {{< product
-    title="Combination Lock"
-    note="Quick access neccessary; Consider one with pin instead of spin; Biometics also popular"
-    section="Additional"
-    quantity-minimum=1
+    title="Blanket"
+    note="You get a blanket, but it isn't great."
+    section="Extras"
+    quantity-minimum=0
+    quantity-recommended=1
+  >}}
+  {{< product
+    title="CPAP Machine"
+    note="If you need it, bring it. 'Yes, we do in fact want you to continue freaking breathing!'"
+    section="Extras"
+    quantity-minimum=0
+    quantity-recommended=1
+  >}}
+  {{< product
+    title="Fan"
+    sectioe="Extras"
+    quantity-minimum=0
+    quantity-recommended=1
+  >}}
+  {{< product
+    title="Massage Equipment"
+    note="Massage gun/etc for general muscle (foot/shoulder/knee) soreness"
+    sectioe="Extras"
+    quantity-minimum=0
+    quantity-recommended=1
+  >}}
+  {{< product
+    title="Pillow"
+    note="You get a pillow, but it isn't great."
+    section="Extras"
+    quantity-minimum=0
+    quantity-recommended=1
+  >}}
+  {{< product
+    title="Sweat Rag"
+    note="There will be ~blood~ sweat."
+    sectioe="Extras"
+    quantity-minimum=0
     quantity-recommended=1
   >}}
 {{< /products >}}
