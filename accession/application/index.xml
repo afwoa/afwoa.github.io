@@ -20,12 +20,32 @@ title="Copy code"
 &lt;li>Go to the Medical Clearance tab and click &lt;code>Start New Medical Clearance Request&lt;/code>&lt;/li>
 &lt;li>Select &lt;code>Retraining/Reclass/Commissioning/IFC/Special Duty/DSD&lt;/code>&lt;/li>
 &lt;li>What type of Retraining/Reclass do you need?: Commission&lt;/li>
-&lt;li>What is the application deadline?&lt;/li>
+&lt;li>What is the application deadline?: Board submission deadline (or WOTS start date)
+- Your AF422 will not be processed until 90 days prior
+- Deadline must be at least 31 days out&lt;/li>
 &lt;li>List all AFSC&amp;rsquo;s/SDI/Positions you are applying for: 17?X?&lt;/li>
 &lt;li>Answer the other questions&lt;/li>
+&lt;li>Page 3 Additional Comments: Req stmt in Genesis
+- KACC says they want the blurb here, but you&amp;rsquo;re only given 20 characters in this textarea.&lt;/li>
+&lt;li>Note the email address on page 4.&lt;/li>
 &lt;/ol>
-&lt;p>Please send your CC/FM approval letter, AFPC email, and AMS listing; any verbiage required on the AF Form 422, plus any other required document to:&amp;hellip;..&lt;/p>
+&lt;p>Send an email to the aforementioned email address with something along the following. Ensure you update the required verbiage as necessary per AF Accessions instructions:&lt;/p>
+&lt;div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
+&lt;div>&lt;pre>&lt;code>I have submitted a request for an AF 422 and am requesting the following verbiage:
+Based on full record review, the member is medically qualified for continued enlistment or commissioning, is cleared for wordwide duty, and does not have an Assignment Limitation Code (ALC), nor are they in the process of a Medical Evaluation Board (MEB). Also, the member does not have an AF Form 469 (Duty Limiting Condition Report) describing duty limitations or exemption from any component for Fitness Testing.
+Member has had PRK/LASIK surgery. Surgery date was MM/DD/YYYY.&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
+&lt;button
+class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>Your Readiness Team may respond to this email requesting this verbiage be requested via MHS Genesis.&lt;/p>
 &lt;p>Check the &lt;code>IMR&lt;/code> tab for an &lt;code>AF422&lt;/code> link daily. This is where your AF422 will be found and you may not recieve any notification that it is ready for download.&lt;/p>
+&lt;p>Your AF422 will need to be valid through WOTS graduation, and as such, you may need to re-request it as you get closer to your WOTS class date after you have been initially selected. The process should be identical at that point. If you show up to WOTS with an expired AF422, you will be sent home.&lt;/p>
 &lt;h2>AFCEP Request&lt;span class="hx-absolute -hx-mt-20" id="afcep-request">&lt;/span>
 &lt;a href="#afcep-request" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Once you have all documents completed, you will upload them via a website called AFCEP. It can be a bit of a time consuming hassle to get access to AFCEP, so it is highly recommended that you begin the process of requesting an account as early as possible.&lt;/p>
 &lt;p>More information coming soon&amp;hellip;&lt;/p></description></item><item><title>1. Documents</title><link>https://afwoa.com/accession/application/docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afwoa.com/accession/application/docs/</guid><description>
