@@ -19,13 +19,29 @@ To request an AF Form 422, do the following:
 1. Go to the Medical Clearance tab and click `Start New Medical Clearance Request`
 1. Select `Retraining/Reclass/Commissioning/IFC/Special Duty/DSD`
   1. What type of Retraining/Reclass do you need?: Commission
-  1. What is the application deadline?
+  1. What is the application deadline?: Board submission deadline (or WOTS start date)
+    - Your AF422 will not be processed until 90 days prior
+    - Deadline must be at least 31 days out
   1. List all AFSC's/SDI/Positions you are applying for: 17?X?
   1. Answer the other questions
+  1. Page 3 Additional Comments: Req stmt in Genesis
+    - KACC says they want the blurb here, but you're only given 20 characters in this textarea.
+  1. Note the email address on page 4.
 
-Please send your CC/FM approval letter, AFPC email, and AMS listing; any verbiage required on the AF Form 422, plus any other required document to:.....
+Send an email to the aforementioned email address with something along the following. Ensure you update the required verbiage as necessary per AF Accessions instructions:
+
+```
+I have submitted a request for an AF 422 and am requesting the following verbiage:
+
+Based on full record review, the member is medically qualified for continued enlistment or commissioning, is cleared for wordwide duty, and does not have an Assignment Limitation Code (ALC), nor are they in the process of a Medical Evaluation Board (MEB). Also, the member does not have an AF Form 469 (Duty Limiting Condition Report) describing duty limitations or exemption from any component for Fitness Testing.
+Member has had PRK/LASIK surgery. Surgery date was MM/DD/YYYY.
+```
+
+Your Readiness Team may respond to this email requesting this verbiage be requested via MHS Genesis.
 
 Check the `IMR` tab for an `AF422` link daily. This is where your AF422 will be found and you may not recieve any notification that it is ready for download.
+
+Your AF422 will need to be valid through WOTS graduation, and as such, you may need to re-request it as you get closer to your WOTS class date after you have been initially selected. The process should be identical at that point. If you show up to WOTS with an expired AF422, you will be sent home.
 
 ## AFCEP Request
 
