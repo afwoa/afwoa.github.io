@@ -1,11 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Air Force Warrant Officer Association – 1. WOTS</title><link>https://afwoa.com/accession/selection/wots/</link><description>Recent content in 1. WOTS on Air Force Warrant Officer Association</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://afwoa.com/accession/selection/wots/index.xml" rel="self" type="application/rss+xml"/><item><title>Fitness</title><link>https://afwoa.com/accession/selection/wots/fitness/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afwoa.com/accession/selection/wots/fitness/</guid><description>
 &lt;p&gt;WOTS can be very physically demanding, this section is intended to provide some recommendations on that front.&lt;/p&gt;</description></item><item><title>Packing</title><link>https://afwoa.com/accession/selection/wots/packing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afwoa.com/accession/selection/wots/packing/</guid><description>
-&lt;p&gt;The official packing list can be found in the &lt;a href="https://www.afaccessionscenter.af.mil/Portals/78/WOTS/Documents/WOTS%20Reporting%20Guide.pdf" target="_blank" rel="noopener"&gt;WOTS Reporting Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This page will help you keep track of items that you still need to obtain. This should be a fairly comprehensive list, but if you find anything to be missing, please reach out. The official packing list can be found in the &lt;a href="https://www.afaccessionscenter.af.mil/Portals/78/WOTS/Documents/WOTS%20Reporting%20Guide.pdf" target="_blank" rel="noopener"&gt;WOTS Reporting Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Note that Amazon links are affiliate links to cover the costs of this website and other AFWOA services. Additionally, images used not necessarily the same as the linked products and are provided for easy reference.&lt;/p&gt;
+&lt;h3&gt;Filters&lt;span class="hx-absolute -hx-mt-20" id="filters"&gt;&lt;/span&gt;
+&lt;a href="#filters" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;script src="https://afwoa.com/js/product-shoppinglist.min.js"&gt;&lt;/script&gt;
+&lt;button class="product-hidden-toggle-btn"&gt;Show Owned Items&lt;/button&gt;
 &lt;h2&gt;Service Uniform&lt;span class="hx-absolute -hx-mt-20" id="service-uniform"&gt;&lt;/span&gt;
 &lt;a href="#service-uniform" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="products"&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-dress-shoes"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/products-oxford-shoes.jpg"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-dress-shoes.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Dress Shoes&lt;/p&gt;&lt;/div&gt;
@@ -13,87 +18,114 @@
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
 &lt;p class="product-links-type"&gt;♂&lt;/p&gt;
-&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/bootmakers-men-s-stay-shine-oxford-shoes/3467509"&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3JcG7Fk"&gt;
 &lt;img
 alt="Dress Shoes"
-src="https://afwoa.com/images/logo-aafes.png"
-width="20px"
-height="20px"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
 /&gt;
-&lt;/a&gt;&lt;a href="https://www.amazon.com/dp/B06XC8ZR39"&gt;
 &lt;img
 alt="Dress Shoes"
-src="https://afwoa.com/images/logo-amazon-dark.svg"
-width="20px"
-height="20px"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/bootmakers-men-s-stay-shine-oxford-shoes/3467509"&gt;
+&lt;img
+alt="Dress Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Dress Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
 /&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;div class="product-links-category"&gt;
 &lt;p class="product-links-type"&gt;♀&lt;/p&gt;
-&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/bootmakers-women-s-stay-shine-oxford-shoes/3467351"&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45tLaZh"&gt;
 &lt;img
 alt="Dress Shoes"
-src="https://afwoa.com/images/logo-aafes.png"
-width="20px"
-height="20px"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
 /&gt;
-&lt;/a&gt;&lt;a href="https://www.amazon.com/dp/B0DJNDBFL1"&gt;
 &lt;img
 alt="Dress Shoes"
-src="https://afwoa.com/images/logo-amazon-dark.svg"
-width="20px"
-height="20px"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/bootmakers-women-s-stay-shine-oxford-shoes/3467351"&gt;
+&lt;img
+alt="Dress Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Dress Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
 /&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-officer-service-coat"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/products-service-coat.jpg"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-officer-service-coat.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Officer Service Coat&lt;/p&gt;&lt;/div&gt;
-&lt;div class="product-note"&gt;&lt;p&gt;Must have &lt;a href="http://www.uniforms-4u.com/p-us-air-force-half-inch-blue-officer-braids-6418.aspx" target="_blank" rel="noopener"&gt;dark braid&lt;/a&gt; and epaulets attached. Maxwell Alterations has 5 weeks turn around&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Ensure same fabric composition as Blues Pants. Must have &lt;a href="http://www.uniforms-4u.com/p-us-air-force-half-inch-blue-officer-braids-6418.aspx" target="_blank" rel="noopener"&gt;dark braid&lt;/a&gt; and epaulets attached. Maxwell Alterations has 5 weeks turn around&lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
 &lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
 &lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/air-force-officer-service-dress-coat/0571415"&gt;
 &lt;img
 alt="Officer Service Coat"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Officer Service Coat"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
-width="20px"
-height="20px"
 /&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-blues-pants"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-pants.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Blues Pants&lt;/p&gt;&lt;/div&gt;
-&lt;div class="product-note"&gt;&lt;p&gt;Wool or polyester w/ a minimum of 1 wool&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Ensure same fabric composition as Service Coat. Wool or polyester w/ a minimum of 1 wool&lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
 &lt;p class="product-links-type"&gt;♂&lt;/p&gt;
 &lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%257D#"&gt;
 &lt;img
 alt="Blues Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Pants"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
-width="20px"
-height="20px"
 /&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;div class="product-links-category"&gt;
@@ -101,17 +133,21 @@ height="20px"
 &lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%257D#"&gt;
 &lt;img
 alt="Blues Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Pants"
+class="visible-when-light"
 src="https://afwoa.com/images/logo-aafes.png"
-width="20px"
-height="20px"
 /&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-blues-shirt-long-sleeve"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-long-sleeve.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Blues Shirt (Long Sleeve)&lt;/p&gt;&lt;/div&gt;
@@ -120,13 +156,42 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%257D#"&gt;
+&lt;img
+alt="Blues Shirt (Long Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Shirt (Long Sleeve)"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%257D#"&gt;
+&lt;img
+alt="Blues Shirt (Long Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Shirt (Long Sleeve)"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-blues-shirt-short-sleeve"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-shirt-short-sleeve.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Blues Shirt (Short Sleeve)&lt;/p&gt;&lt;/div&gt;
@@ -135,13 +200,42 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522genders%2522%253A%255B%2522Men%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%257D#"&gt;
+&lt;img
+alt="Blues Shirt (Short Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Shirt (Short Sleeve)"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.BranchofService%2522%253A%255B%2522Air%2520Force%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522Service%2520Dress%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Shirts%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Blue%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Service%2520Dress%2520Uniform%2522%255D%252C%2522genders%2522%253A%255B%2522Women%2522%255D%257D#"&gt;
+&lt;img
+alt="Blues Shirt (Short Sleeve)"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Shirt (Short Sleeve)"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-flight-cap"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-flight-cap.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Flight Cap&lt;/p&gt;&lt;/div&gt;
@@ -149,28 +243,74 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-neck-tie"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tie.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
-&lt;div class="product-title"&gt;&lt;p&gt;Necktie/tab&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Neck Tie&lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
 &lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-neck-tie/1881150"&gt;
+&lt;img
+alt="Neck Tie"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Neck Tie"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-neck-tab"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-neck-tab.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Neck Tab&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-wrap-around-inverted-v-neck-tab/6303622"&gt;
+&lt;img
+alt="Neck Tab"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Neck Tab"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-service-uniform-belt"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-belt.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Belt&lt;/p&gt;&lt;/div&gt;
@@ -178,13 +318,28 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/air-force-blue-elastic-belt/9958067"&gt;
+&lt;img
+alt="Belt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Belt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-undershirts"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-undershirts.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Undershirts&lt;/p&gt;&lt;/div&gt;
@@ -193,13 +348,39 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4lxcWKx"&gt;
+&lt;img
+alt="Undershirts"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Undershirts"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/men-s-4-pack-underwear-v-neck-shirt-in-white/DSCO1224287610"&gt;
+&lt;img
+alt="Undershirts"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Undershirts"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-black-dress-socks"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-black-dress-socks.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Black Dress Socks&lt;/p&gt;&lt;/div&gt;
@@ -208,13 +389,39 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4mLlsGV"&gt;
+&lt;img
+alt="Black Dress Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Black Dress Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/hanes-crew-socks-black-6-pk-/2719012"&gt;
+&lt;img
+alt="Black Dress Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Black Dress Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-shirt-garters"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-shirt-garters.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Shirt Garters&lt;/p&gt;&lt;/div&gt;
@@ -223,27 +430,68 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3JeNDzm"&gt;
+&lt;img
+alt="Shirt Garters"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Shirt Garters"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/army-air-force-shirt-garter-black-4-pc-/2906331"&gt;
+&lt;img
+alt="Shirt Garters"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Shirt Garters"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-lightweight-jacket"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-lightweight-jacket.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
-&lt;div class="product-title"&gt;&lt;p&gt;Light-weight Jacket&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Lightweight Jacket&lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-note"&gt;&lt;p&gt;May be embroidered&lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-lightweight-jacket-with-liner/0039511"&gt;
+&lt;img
+alt="Lightweight Jacket"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Lightweight Jacket"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-blues-name-tag"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-blues-name-tag.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Blues Name Tag&lt;/p&gt;&lt;/div&gt;
@@ -252,13 +500,28 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/air-force-blue-plastic-engraved-nametag/6771340"&gt;
+&lt;img
+alt="Blues Name Tag"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Blues Name Tag"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-service-dress-name-tag"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-service-dress-name-tag.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Service Dress Name Tag&lt;/p&gt;&lt;/div&gt;
@@ -267,28 +530,43 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
-&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/air-force-silver-metal-engraved-nametag/2272207"&gt;
+&lt;img
+alt="Service Dress Name Tag"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Service Dress Name Tag"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-us-officer-lapel-pins"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-us-officer-lapel-pins.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
-&lt;div class="product-title"&gt;&lt;p&gt;US Officer Lapel Pins (Set of 2)&lt;/p&gt;&lt;/div&gt;
-&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;US Officer Lapel Pins&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Set of 2&lt;/p&gt;&lt;/div&gt;
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-metal-rank"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-metal-rank.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Metal Rank&lt;/p&gt;&lt;/div&gt;
@@ -296,13 +574,14 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;3&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-full-ribbon-rack"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-full-ribbon-rack.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Full Ribbon Rack&lt;/p&gt;&lt;/div&gt;
@@ -311,13 +590,14 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;3&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="product"&gt;
+&lt;div class="product" id="products-service-uniform-required-duty-badges"&gt;
 &lt;div class="product-image"&gt;
-&lt;img src="https://afwoa.com/images/money-fire.png"/&gt;
+&lt;img src="https://afwoa.com/images/products-service-uniform-required-duty-badges.jpg"/&gt;
 &lt;/div&gt;
 &lt;div class="product-details"&gt;
 &lt;div class="product-title"&gt;&lt;p&gt;Required Duty Badges&lt;/p&gt;&lt;/div&gt;
@@ -326,14 +606,1509 @@ height="20px"
 &lt;div class="product-quantities"&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
 &lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class="product-links"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;Official Images&lt;span class="hx-absolute -hx-mt-20" id="official-images"&gt;&lt;/span&gt;
-&lt;a href="#official-images" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src="https://afwoa.com/images/wots-packing-service-uniform.png" alt="" loading="lazy" /&gt;
-&lt;img src="https://afwoa.com/images/wots-packing-utility-uniform.png" alt="" loading="lazy" /&gt;
-&lt;img src="https://afwoa.com/images/wots-packing-ptg.png" alt="" loading="lazy" /&gt;
-&lt;img src="https://afwoa.com/images/wots-packing-hygiene.png" alt="" loading="lazy" /&gt;
-&lt;img src="https://afwoa.com/images/wots-packing-additional.png" alt="" loading="lazy" /&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;h2&gt;Utility Uniform&lt;span class="hx-absolute -hx-mt-20" id="utility-uniform"&gt;&lt;/span&gt;
+&lt;a href="#utility-uniform" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="products"&gt;
+&lt;div class="product" id="products-utility-uniform-boots"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-boots.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Boots&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Coyote Brown&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45zjVwC"&gt;
+&lt;img
+alt="Boots"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Boots"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Military%2520Approved%2520Footwear%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Boots%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Brown%2522%255D%257D"&gt;
+&lt;img
+alt="Boots"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Boots"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-ocp-pants"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-pants.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;OCP Pants&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Pants%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522OCP%2522%255D%257D"&gt;
+&lt;img
+alt="OCP Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="OCP Pants"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-ocp-blouse"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-blouse.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;OCP Blouse&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Must have velcro&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.categoriesL2%2522%253A%255B%2522Uniforms%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522OCP%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Coats%2522%255D%257D"&gt;
+&lt;img
+alt="OCP Blouse"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="OCP Blouse"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-ocp-cap"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-cap.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;OCP Cap&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Patrol Style&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-army-patrol-cap-ocp-/7261923"&gt;
+&lt;img
+alt="OCP Cap"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="OCP Cap"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-belt"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-belt.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Belt&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Rigger style, Tan 499 Color&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-army-rigger-belt-ocp-/7247229"&gt;
+&lt;img
+alt="Belt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Belt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-blousing-straps"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-blousing-straps.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Blousing Straps&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4mGlEXK"&gt;
+&lt;img
+alt="Blousing Straps"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Blousing Straps"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-t-shirt"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-t-shirt.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;T-Shirt&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Crew neck, Coyote Brown&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;5&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;7&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45zbKR2"&gt;
+&lt;img
+alt="T-Shirt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="T-Shirt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Military%2522%255D%252C%2522attributes.pattern%2522%253A%255B%2522OCP%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522T-Shirts%2522%255D%257D"&gt;
+&lt;img
+alt="T-Shirt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="T-Shirt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-ocp-fleece"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-fleece.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;OCP Fleece&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Coyote Brown, Required October - March&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/army-cold-weather-fleece-jacket/7924071"&gt;
+&lt;img
+alt="OCP Fleece"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="OCP Fleece"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-ecwcs"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ecwcs.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;ECWCS&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Extended Cold Weather Clothing System (ECWCS), same as Gortex&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-watch-cap"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-watch-cap.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Watch Cap&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Black or Coyote Brown, Required October - March&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/army-black-micro-fleece-cap-apfu-/6945715"&gt;
+&lt;img
+alt="Watch Cap"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Watch Cap"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-ocp-socks"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-ocp-socks.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;OCP Socks&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Coyote Brown or DLA Green&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;5&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;7&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4oyx7dJ"&gt;
+&lt;img
+alt="OCP Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="OCP Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Socks%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Brown%2522%252C%2522Green%2522%255D%257D"&gt;
+&lt;img
+alt="OCP Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="OCP Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-gloves"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-gloves.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Gloves&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Black or Coyote Brown; 1 Warm Pair (Oct - Mar), 1 Work Pair&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/41rg7fN"&gt;
+&lt;img
+alt="Gloves"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Gloves"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Gloves%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Black%2522%252C%2522Brown%2522%255D%257D"&gt;
+&lt;img
+alt="Gloves"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Gloves"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-name-tapes"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-name-tapes.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Name Tapes&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Spice Brown print on OCP, Velcro&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;3&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/air-force-embroidered-nametape-hook-loop-standard-5-in-ocp-/1201066"&gt;
+&lt;img
+alt="Name Tapes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Name Tapes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-usaf-tapes"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-usaf-tapes.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;USAF Tapes&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Spice Brown print on OCP, Velcro&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/air-force-embroidered-branch-tape-hook-loop-ocp-/1206816"&gt;
+&lt;img
+alt="USAF Tapes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF Tapes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-utility-uniform-us-flag-patch"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-utility-uniform-us-flag-patch.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;US Flag Patch&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Spice Brown embroidered, Velcro&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Physical Training Gear&lt;span class="hx-absolute -hx-mt-20" id="physical-training-gear"&gt;&lt;/span&gt;
+&lt;a href="#physical-training-gear" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="products"&gt;
+&lt;div class="product" id="products-physical-training-gear-athletic-shoes"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-athletic-shoes.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Athletic Shoes&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4ozOhHO"&gt;
+&lt;img
+alt="Athletic Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Athletic Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Sneakers%2522%255D%252C%2522attributes.categoriesL1%2522%253A%255B%2522Shoes%2522%255D%257D"&gt;
+&lt;img
+alt="Athletic Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Athletic Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-physical-training-gear-usaf-ptg-shorts"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-shorts.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;USAF PTG Shorts&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;3&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-male-ap-shorts/3894910"&gt;
+&lt;img
+alt="USAF PTG Shorts"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Shorts"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-female-pt-running-shorts/3891884"&gt;
+&lt;img
+alt="USAF PTG Shorts"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Shorts"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-physical-training-gear-usaf-ptg-shirt"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-shirt.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;USAF PTG Shirt&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;3&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-male-pt-shirt/3891290"&gt;
+&lt;img
+alt="USAF PTG Shirt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Shirt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-female-pt-shirt/3890596"&gt;
+&lt;img
+alt="USAF PTG Shirt"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Shirt"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-physical-training-gear-usaf-ptg-running-pants"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-running-pants.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;USAF PTG Running Pants&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-male-pt-pants/3901509"&gt;
+&lt;img
+alt="USAF PTG Running Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Running Pants"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-female-pt-pants/3901537"&gt;
+&lt;img
+alt="USAF PTG Running Pants"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Running Pants"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-physical-training-gear-usaf-ptg-jacket"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-usaf-ptg-jacket.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;USAF PTG Jacket&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♂&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-male-pt-jacket/3898261"&gt;
+&lt;img
+alt="USAF PTG Jacket"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Jacket"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://www.shopmyexchange.com/dlats-air-force-female-pt-jacket/3898291"&gt;
+&lt;img
+alt="USAF PTG Jacket"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="USAF PTG Jacket"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-physical-training-gear-running-socks"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-physical-training-gear-running-socks.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Running Socks&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;5&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;7&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3Hav2UH"&gt;
+&lt;img
+alt="Running Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Running Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.categoriesL1%2522%253A%255B%2522Clothing%2520%2526%2520Accessories%2522%255D%252C%2522attributes.productSubType%2522%253A%255B%2522Socks%2522%255D%252C%2522attributes.style%2522%253A%255B%2522Ankle%2522%252C%2522Athletic%2522%252C%2522Athletic%2520Socks%2522%255D%257D"&gt;
+&lt;img
+alt="Running Socks"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Running Socks"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Hygiene&lt;span class="hx-absolute -hx-mt-20" id="hygiene"&gt;&lt;/span&gt;
+&lt;a href="#hygiene" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="products"&gt;
+&lt;div class="product" id="products-hygiene-standard-hygiene-items"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-standard-hygiene-items.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Standard Hygiene Items&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;60 Day Supply; AAFES has limited options; Toothbrush, toothpase, shampoo/conditioner, body wash, deoderant, etc.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-underwear"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-underwear.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Underwear&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Black or White; Cotton; Non-Thong&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;6&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;9&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45zkG8W"&gt;
+&lt;img
+alt="Underwear"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Underwear"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Underwear%2522%255D%252C%2522attributes.colorFamily%2522%253A%255B%2522Black%2522%252C%2522White%2522%255D%252C%2522attributes.categoriesL1%2522%253A%255B%2522Clothing%2520%2526%2520Accessories%2522%255D%257D"&gt;
+&lt;img
+alt="Underwear"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Underwear"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-thermal-underwear"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-thermal-underwear.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Thermal Underwear&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Required October - March&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4fDxMGX"&gt;
+&lt;img
+alt="Thermal Underwear"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Thermal Underwear"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?query=thermal&amp;#43;underwear&amp;amp;facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Underwear%2522%255D%252C%2522attributes.categoriesL1%2522%253A%255B%2522Clothing%2520%2526%2520Accessories%2522%255D%257D"&gt;
+&lt;img
+alt="Thermal Underwear"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Thermal Underwear"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-sports-bra"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-sports-bra.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Sports Bra&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Black or White&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;6&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;9&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3Hav2UH"&gt;
+&lt;img
+alt="Sports Bra"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Sports Bra"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;a href="https://www.shopmyexchange.com/browse?facets=%257B%2522attributes.productSubType%2522%253A%255B%2522Sports%2520Bras%2522%255D%257D"&gt;
+&lt;img
+alt="Sports Bra"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-aafes-dark.png"
+/&gt;
+&lt;img
+alt="Sports Bra"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-aafes.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-underwire-bra"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-underwire-bra.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Underwire Bra&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Female Only&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3Hb0jqB"&gt;
+&lt;img
+alt="Underwire Bra"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Underwire Bra"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-spandex-tights"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-spandex-tights.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Spandex Tights&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Plain Black&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45zl3Am"&gt;
+&lt;img
+alt="Spandex Tights"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Spandex Tights"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-hairbrush"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-hairbrush.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Hairbrush&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3Up6N8f"&gt;
+&lt;img
+alt="Hairbrush"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Hairbrush"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-hairbands-and-bobby-pins"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-hairbands-and-bobby-pins.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Hairbands and Bobby Pins&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Female Only&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;10&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;♀&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/414ArDq"&gt;
+&lt;img
+alt="Hairbands and Bobby Pins"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Hairbands and Bobby Pins"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-wristwatch"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-wristwatch.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Wristwatch&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Smart Watches Authorized&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3Uu1vrZ"&gt;
+&lt;img
+alt="Wristwatch"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Wristwatch"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-eyeglasses"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-eyeglasses.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Eyeglasses&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;As Needed; Contacts not recommended&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-eyeglass-strap"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-eyeglass-strap.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Eyeglass Strap&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Glasses must be secured during physical and field events&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4mnv232"&gt;
+&lt;img
+alt="Eyeglass Strap"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Eyeglass Strap"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-washcloth"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-washcloth.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Washcloth&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45PubC8"&gt;
+&lt;img
+alt="Washcloth"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Washcloth"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-shower-shoes"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-shower-shoes.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Shower Shoes&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4mGCZQq"&gt;
+&lt;img
+alt="Shower Shoes"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Shower Shoes"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-towel"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-towel.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Towel&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Smaller than 24 inches x 44 inches&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-mesh-laundry-bags"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-mesh-laundry-bags.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Mesh Laundry Bags&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/3Up7cHN"&gt;
+&lt;img
+alt="Mesh Laundry Bags"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Mesh Laundry Bags"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-laundry-detergent"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-laundry-detergent.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Laundry Detergent&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/47swYlW"&gt;
+&lt;img
+alt="Laundry Detergent"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Laundry Detergent"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-hygiene-dryer-sheets"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-hygiene-dryer-sheets.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Dryer Sheets&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4fEjqGb"&gt;
+&lt;img
+alt="Dryer Sheets"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Dryer Sheets"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Additional&lt;span class="hx-absolute -hx-mt-20" id="additional"&gt;&lt;/span&gt;
+&lt;a href="#additional" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="products"&gt;
+&lt;div class="product" id="products-additional-ballpoint-pens"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-ballpoint-pens.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Ballpoint Pens&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Blue or Black&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45sKFi9"&gt;
+&lt;img
+alt="Ballpoint Pens"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Ballpoint Pens"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-additional-cash"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-cash.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Cash&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Approx $75&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;75&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-additional-laptop"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-laptop.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Laptop&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Accessories, surge protector, headphones, waterproof case, etc.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45gfjMZ"&gt;
+&lt;img
+alt="Laptop"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Laptop"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-additional-lock"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-lock.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Lock&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Quick access neccessary; Consider one with biometics or a pin instead of spin&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-additional-notepaper"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-notepaper.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Notepaper&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/45KepIJ"&gt;
+&lt;img
+alt="Notepaper"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Notepaper"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-additional-pocket-notebook"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-pocket-notebook.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Pocket Notebook&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;2&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4oubxad"&gt;
+&lt;img
+alt="Pocket Notebook"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Pocket Notebook"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-additional-toiletry-bag"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/products-additional-toiletry-bag.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Toiletry Bag&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;1&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4oRv5Wv"&gt;
+&lt;img
+alt="Toiletry Bag"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Toiletry Bag"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Extras&lt;span class="hx-absolute -hx-mt-20" id="extras"&gt;&lt;/span&gt;
+&lt;a href="#extras" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This section contains items which are recommended by prior WOTS Candidates rather than specifically in the WOTS Reporting Guide.&lt;/p&gt;
+&lt;div class="products"&gt;
+&lt;div class="product" id="products-extras-blanket"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Blanket&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;You get a blanket, but it isn&amp;rsquo;t great.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;div class="product-links-category"&gt;
+&lt;p class="product-links-type"&gt;&lt;svg fill="currentColor" height="18px" width="18px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.88 122.88"&gt;&lt;title&gt;hyperlink&lt;/title&gt;&lt;path d="M60.54,34.07A7.65,7.65,0,0,1,49.72,23.25l13-12.95a35.38,35.38,0,0,1,49.91,0l.07.08a35.37,35.37,0,0,1-.07,49.83l-13,12.95A7.65,7.65,0,0,1,88.81,62.34l13-13a20.08,20.08,0,0,0,0-28.23l-.11-.11a20.08,20.08,0,0,0-28.2.07l-12.95,13Zm14,3.16A7.65,7.65,0,0,1,85.31,48.05L48.05,85.31A7.65,7.65,0,0,1,37.23,74.5L74.5,37.23ZM62.1,89.05A7.65,7.65,0,0,1,72.91,99.87l-12.7,12.71a35.37,35.37,0,0,1-49.76.14l-.28-.27a35.38,35.38,0,0,1,.13-49.78L23,50A7.65,7.65,0,1,1,33.83,60.78L21.12,73.49a20.09,20.09,0,0,0,0,28.25l0,0a20.07,20.07,0,0,0,28.27,0L62.1,89.05Z"/&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;div class="product-links-group"&gt;&lt;a href="https://amzn.to/4lu1teE"&gt;
+&lt;img
+alt="Blanket"
+class="visible-when-dark"
+src="https://afwoa.com/images/logo-amazon-dark.png"
+/&gt;
+&lt;img
+alt="Blanket"
+class="visible-when-light"
+src="https://afwoa.com/images/logo-amazon.png"
+/&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-extras-cpap-machine"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;CPAP Machine&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;If you need it, bring it. &amp;lsquo;Yes, we do in fact want you to continue freaking breathing!&amp;rsquo;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products--fan"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Fan&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products--massage-equipment"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Massage Equipment&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;Massage gun/etc for general muscle (foot/shoulder/knee) soreness&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products-extras-pillow"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Pillow&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;You get a pillow, but it isn&amp;rsquo;t great.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="product" id="products--sweat-rag"&gt;
+&lt;div class="product-image"&gt;
+&lt;img src="https://afwoa.com/images/money-fire.jpg"/&gt;
+&lt;/div&gt;
+&lt;div class="product-details"&gt;
+&lt;div class="product-title"&gt;&lt;p&gt;Sweat Rag&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-note"&gt;&lt;p&gt;There will be &lt;del&gt;blood&lt;/del&gt; sweat.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="product-quantities"&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Minimum: &lt;/strong&gt;&lt;span&gt;0&lt;/p&gt;
+&lt;p class="product-quantity"&gt;&lt;strong&gt;Recommended: &lt;/strong&gt;&lt;span&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;button class="product-btn"&gt;I have this&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="product-links"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
