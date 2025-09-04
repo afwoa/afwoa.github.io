@@ -1,25 +1,22 @@
 {
+  description = "HUGO Website for afwoa.com";
+
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
-    systems.url = "github:nix-systems/default";
+    flake-utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = { systems, nixpkgs, ...}@inputs:
-  let
-    eachSystem = f: nixpkgs.lib.genAttrs (import systems) (system: f nixpkgs.legacyPackages.${system});
-  in {
-    devShells = eachSystem (pkgs: {
-      default = pkgs.mkShell {
-        buildInputs = [
-          pkgs.hugo
-          pkgs.go
-        ];
-        shellHook = ''
-          ${pkgs.coreutils-full}/bin/echo "Hugo: $(hugo version)"
-          ${pkgs.coreutils-full}/bin/echo "Go: $(go version)"
-          ${pkgs.hugo}/bin/hugo server --disableFastRender --noHTTPCache --ignoreCache --gc --buildDrafts --source ./src
-        '';
+  outputs = { self, nixpkgs, flake-utils }@inputs:
+    flake-utils.lib.eachDefaultSystem (system: let
+      pkgs = import nixpkgs { inherit system; };
+      lib = pkgs.lib;
+    in {
+      devShells = {
+        default = import ./nix/devShells/default.nix { inherit self lib pkgs system; };
+      };
+      packages = {
+        hugo-serve = import ./nix/packages/hugo/serve.nix { inherit lib pkgs; };
+        hugo-build = import ./nix/packages/hugo/build.nix { inherit lib pkgs; };
       };
     });
-  };
 }
